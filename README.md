@@ -1,24 +1,25 @@
-# This is a large heading
+# Vladimir Mazin
 
-    ## This is a smaller heading
+### Geography
 
-    And as **imagination** bodies forth,
-    The forms of things *unknown*, the poet’s pen,
-    Turns them to shapes and gives to airy nothing,
-    A local *habitation* and a **name**.
+I live in Barcelona, Spain. Originally I am from Saint-Petersburg, Russia.
 
-    - This is
-    - an unordered
-    - list
+### Reading
 
-    1. This is
-    2. an ordered
-    3. list
+Three of my favorite books are:
 
-    Here is `some code` in the middle of a sentence.
+- *Monday Begins on Saturday* by Boris Strugatsky
+- *Cat's Cradle* by Kurt Vonnegut
+- *Persepolis* by Marjane Satrapi
 
-    ```
-    This is
-    a block
-    of code
-    ```
+### Food
+
+My favorite dishes are:
+
+1. Ice cream.
+2. Dumplings.
+3. Barbecue.
+
+### Contact
+
+The best way to get in touch with me is [on Facebook](https://www.facebook.com/mazin.vladimir).
